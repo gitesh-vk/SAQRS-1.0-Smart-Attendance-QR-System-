@@ -67,4 +67,5 @@ About
 .
 .
 Versions that have been modified or updated are listed below: 
+
 https://github.com/gitesh-vk/QRA-2.0-QR-Attendance-
