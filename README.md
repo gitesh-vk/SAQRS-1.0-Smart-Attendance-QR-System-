@@ -4,5 +4,4 @@ This is a very basic application with working functionality to capture entry and
 
 This application was built with the online Android app builder tool "Thunkable Classic."
 
-![20220820_192932](https://user-images.githubusercontent.com/65550041/209720465-9b220a33-4aef-491b-a75c-1630b7d4d9d6.jpg)
-gk
+
