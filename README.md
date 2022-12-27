@@ -14,7 +14,8 @@ Home Page
 
 Sign-UP Page
 
-![3](https://user-images.githubusercontent.com/65550041/209721688-8b0a5331-1511-4170-8dcb-04413bc73783.jpg)
+![3](https://user-images.githubusercontent.com/65550041/209722809-5a106568-a113-4e49-a1bc-9c94fa30484a.jpg)
+
 
 Login Page
 
