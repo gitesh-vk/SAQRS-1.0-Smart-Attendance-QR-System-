@@ -30,3 +30,7 @@ Entry & Exit QR Scan
 About 
 
 ![1](https://user-images.githubusercontent.com/65550041/209721974-a9efb9b4-0ef4-4c68-846d-17e7d3c18c42.jpg)
+
+
+![1 (1)](https://user-images.githubusercontent.com/65550041/209722116-6b315402-6907-47fd-804c-be032d7fe834.jpg)
+
