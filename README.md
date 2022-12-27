@@ -6,9 +6,10 @@ This application was built with the online Android app builder tool "Thunkable C
 
 
 ![1 (1)](https://user-images.githubusercontent.com/65550041/209722264-dd615f80-38e3-45c2-b99a-4c71508abde8.jpg)
+
 Home Page
 
-![2](https://user-images.githubusercontent.com/65550041/209721667-1359a30b-fbe0-42b4-ade0-7a87b31092bd.jpg)
+![2](https://user-images.githubusercontent.com/65550041/209722542-63855b3b-2c73-4807-a595-1fd8436a022f.jpg)
 
 Sign-UP Page
 
