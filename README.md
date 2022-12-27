@@ -12,9 +12,9 @@ Home Page
 
 
 
-
-
-
+.
+.
+.
 ![2](https://user-images.githubusercontent.com/65550041/209722681-b921db44-0bf1-4de5-a3df-bbdfd79a1845.jpg)
 
 Sign-UP Page
@@ -22,9 +22,9 @@ Sign-UP Page
 
 
 
-
-
-
+.
+.
+.
 ![3](https://user-images.githubusercontent.com/65550041/209722809-5a106568-a113-4e49-a1bc-9c94fa30484a.jpg)
 
 Login Page
@@ -32,9 +32,9 @@ Login Page
 
 
 
-
-
-
+.
+.
+.
 ![4](https://user-images.githubusercontent.com/65550041/209723203-7be78e0f-85b9-4f49-8d45-172709ee17f1.jpg)
 
 Dashboard
@@ -42,9 +42,9 @@ Dashboard
 
 
 
-
-
-
+.
+.
+.
 ![5](https://user-images.githubusercontent.com/65550041/209723239-a1244868-35b7-404c-802a-1f88eef9d470.jpg)
 
 Entry & Exit QR Scan
@@ -55,8 +55,16 @@ Entry & Exit QR Scan
 
 
 
+
+.
+.
+.
 ![6](https://user-images.githubusercontent.com/65550041/209723283-f69c73a0-9bc0-4e2d-8692-669040da6a6b.jpg)
 
 About 
 
-
+.
+.
+.
+Versions that have been modified or updated are listed below: 
+https://github.com/gitesh-vk/QRA-2.0-QR-Attendance-
