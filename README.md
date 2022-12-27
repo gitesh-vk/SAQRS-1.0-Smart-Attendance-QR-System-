@@ -9,25 +9,33 @@ This application was built with the online Android app builder tool "Thunkable C
 
 Home Page
 
-![2](https://user-images.githubusercontent.com/65550041/209722681-b921db44-0bf1-4de5-a3df-bbdfd79a1845.jpg)
 
+
+![2](https://user-images.githubusercontent.com/65550041/209722681-b921db44-0bf1-4de5-a3df-bbdfd79a1845.jpg)
 
 Sign-UP Page
 
-![3](https://user-images.githubusercontent.com/65550041/209722809-5a106568-a113-4e49-a1bc-9c94fa30484a.jpg)
 
+
+![3](https://user-images.githubusercontent.com/65550041/209722809-5a106568-a113-4e49-a1bc-9c94fa30484a.jpg)
 
 Login Page
 
-![4](https://user-images.githubusercontent.com/65550041/209721709-5e1bc664-0efb-4ab8-aa9b-b0955ae6e440.jpg)
+
+
+![4](https://user-images.githubusercontent.com/65550041/209723203-7be78e0f-85b9-4f49-8d45-172709ee17f1.jpg)
 
 Dashboard
 
-![5](https://user-images.githubusercontent.com/65550041/209721723-bfdc5269-8e5e-4338-9316-c30abeedc6ac.jpg)
+
+
+![5](https://user-images.githubusercontent.com/65550041/209723239-a1244868-35b7-404c-802a-1f88eef9d470.jpg)
 
 Entry & Exit QR Scan
 
-![6](https://user-images.githubusercontent.com/65550041/209721782-313b4bdf-f796-44ec-9221-0ee5be1bc463.jpg)
+
+
+![6](https://user-images.githubusercontent.com/65550041/209723283-f69c73a0-9bc0-4e2d-8692-669040da6a6b.jpg)
 
 About 
 
