@@ -5,7 +5,8 @@ This is a very basic application with working functionality to capture entry and
 This application was built with the online Android app builder tool "Thunkable Classic."
 
 
-![1](https://user-images.githubusercontent.com/65550041/209721655-a78a39d6-6e53-4fa0-8a2c-3d4383cf44a0.jpg)
+![1 (1)](https://user-images.githubusercontent.com/65550041/209722264-dd615f80-38e3-45c2-b99a-4c71508abde8.jpg)
+
 
 Home Page
 
@@ -29,8 +30,4 @@ Entry & Exit QR Scan
 
 About 
 
-![1](https://user-images.githubusercontent.com/65550041/209721974-a9efb9b4-0ef4-4c68-846d-17e7d3c18c42.jpg)
-
-
-![1 (1)](https://user-images.githubusercontent.com/65550041/209722116-6b315402-6907-47fd-804c-be032d7fe834.jpg)
 
