@@ -6,7 +6,6 @@ This application was built with the online Android app builder tool "Thunkable C
 
 
 ![1 (1)](https://user-images.githubusercontent.com/65550041/209722264-dd615f80-38e3-45c2-b99a-4c71508abde8.jpg)
-
 Home Page
 
 
